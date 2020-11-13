@@ -28,7 +28,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/grid_item_individual_label_padding_top"
         android:layout_marginBottom="@dimen/grid_item_individual_label_padding_bottom"
-        android:background="@color/category_title_scrim_color"
+        android:background="?android:attr/colorPrimary"
         android:ellipsize="end"
         android:gravity="center"
         android:maxLines="1"
@@ -67,7 +67,7 @@
                 android:id="@+id/loading_indicator_container"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:background="@color/black_67_alpha"
+                android:background="?android:attr/colorPrimary"
                 android:visibility="gone">
 
                 <ProgressBar
