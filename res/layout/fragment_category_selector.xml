@@ -24,6 +24,6 @@
     android:paddingHorizontal="@dimen/grid_edge_space"
     android:scrollbarSize="@dimen/grid_padding"
     android:scrollbarStyle="outsideOverlay"
-    android:scrollbarThumbVertical="@color/scrollbar_thumb_color_dark"
+    android:scrollbarThumbVertical="?android:attr/colorPrimary"
     android:scrollbars="vertical"
     app:layout_behavior="@string/bottom_sheet_behavior" />
