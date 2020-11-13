@@ -38,7 +38,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
-            android:background="@color/translucent_black_90_alpha"
+            android:background="?android:attr/colorPrimary"
             android:padding="@dimen/rotation_tile_desktop_label_padding">
 
             <TextView
@@ -54,7 +54,7 @@
             android:id="@+id/loading_indicator_container"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:background="@color/black_67_alpha"
+            android:background="?android:attr/colorPrimary"
             android:visibility="gone">
 
             <ProgressBar
