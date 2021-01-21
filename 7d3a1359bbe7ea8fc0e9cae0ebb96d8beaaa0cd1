@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2fc5a0fe_923d120f",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000013
+      },
+      "writtenOn": "2021-01-21T02:14:09Z",
+      "side": 1,
+      "message": "actually works fine, but I\u0027d rather wait for them to merge it before we do so.",
+      "revId": "7d3a1359bbe7ea8fc0e9cae0ebb96d8beaaa0cd1",
+      "serverId": "039621b9-0c7c-40f3-867c-684f4bc911d6"
+    }
+  ]
+}
